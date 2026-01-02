@@ -1,7 +1,7 @@
 # Personal Expense & Spending Analysis Dashboard
 
 ## 📌 Project Overview
-This project focuses on analyzing personal expense data for one full month to understand spending behavior, identify major cost drivers, and uncover daily and weekly spending patterns. The analysis is performed using SQL for data aggregation and Excel for visualization through an interactive dashboard.
+This project focuses on analyzing personal expense data for one full month to understand spending behavior, identify major cost drivers, and uncover daily and weekly spending patterns. The analysis is performed using SQL for data aggregation and Excel for visualization through an  dashboard.
 
 The goal of the project is to transform raw, transaction-level expense data into meaningful insights that support better financial decision-making.
 
